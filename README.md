@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Urvashitiwari2522
-- 👀 I’m interested in learning about technology. 
+- 👀 I’m interested in learning about technologies
 - 🌱 I’m currently learning JAVA,HTML,LINUX,SQL and DSA. 
 - 📫 How to reach me
 - priyatiwari0425@gmail.com

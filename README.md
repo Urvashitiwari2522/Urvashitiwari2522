@@ -16,8 +16,5 @@
    <a href="https://www.instagram.com/urvashi_tiwari2208">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
- 
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>

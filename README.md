@@ -12,10 +12,10 @@
   <a href="https://github.com/urvashitiwari2522"\>
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/urvashi_tiwari2208">
+   <a href="https://www.instagram.com/urvashi_tiwari2208"\>
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/urvashi-tiwari2208">
+  <a href="https://www.linkedin.com/in/urvashi-tiwari2208"\>
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
 

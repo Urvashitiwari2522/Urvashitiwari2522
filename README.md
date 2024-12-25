@@ -2,7 +2,7 @@
 
 - ✨ username: @Urvashitiwari2522
 - 👀 I’m interested in learning about technologies
-- 🌱 I’m currently learning JAVA,HTML,LINUX,SQL and DSA. 
+- 🌱 I’m currently learning JAVA , HTML and python. 
 - 📫 How to reach me: priyatiwari0425@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like programming languages and am eager to learn new technologies. 
@@ -21,7 +21,7 @@
 </div>
  
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,html,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,html,Mysql)](https://skillicons.dev)
 
 
 

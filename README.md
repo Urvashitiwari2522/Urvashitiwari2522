@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋,I'm Urvashi</h1>
 
- ## 💫About Me:
+ # 💫About Me:
  
 - ✨ username: @Urvashitiwari2522
 - 👀 I’m interested in learning about technologies

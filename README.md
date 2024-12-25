@@ -21,5 +21,5 @@
 </div>
  
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,html)]![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,html,MySQL)](https://skillicons.dev)
 

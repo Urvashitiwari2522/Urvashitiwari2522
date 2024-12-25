@@ -15,5 +15,7 @@
    <a href="https://www.instagram.com/urvashi_tiwari2208">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
+  <a href="https://www.linkedin.com/in/urvashi-tiwari2208">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
 </div>

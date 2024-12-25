@@ -1,4 +1,5 @@
-<h1 align="center">Hi👋I'm Urvashi</h1>
+<h1 align="center">Hi👋,I'm Urvashi</h1>
+
 - ✨ username: @Urvashitiwari2522
 - 👀 I’m interested in learning about technologies
 - 🌱 I’m currently learning JAVA,HTML,LINUX,SQL and DSA. 

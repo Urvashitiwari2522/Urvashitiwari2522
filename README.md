@@ -23,5 +23,5 @@
 </div>
  
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,html,MYSQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=C,java,python,linux,html,MySql)](https://skillicons.dev)
 

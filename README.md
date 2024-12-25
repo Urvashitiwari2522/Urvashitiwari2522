@@ -12,9 +12,6 @@
   <a href="https://github.com/urvashitiwari2522"\>
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/urvashi_tiwari2208"\>
-    <img src="https://img.shields.io/badge/?style=Instagram-purplefor-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-
+  
 
 </div>

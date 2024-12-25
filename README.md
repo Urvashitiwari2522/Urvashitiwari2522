@@ -1,9 +1,8 @@
 <h1 align="center">Hi👋I'm Urvashi</h1>
-- ✨ @Urvashitiwari2522
+- ✨ username: @Urvashitiwari2522
 - 👀 I’m interested in learning about technologies
 - 🌱 I’m currently learning JAVA,HTML,LINUX,SQL and DSA. 
-- 📫 How to reach me
-- priyatiwari0425@gmail.com
+- 📫 How to reach me: priyatiwari0425@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like programming languages and am eager to learn new technologies. 
 

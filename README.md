@@ -1,4 +1,4 @@
- ### Hi there👋 
+<h1 align="centre">Hi👋I'm Urvashi</h1>
 - ✨ I’m @Urvashitiwari2522
 - 👀 I’m interested in learning about technologies
 - 🌱 I’m currently learning JAVA,HTML,LINUX,SQL and DSA. 

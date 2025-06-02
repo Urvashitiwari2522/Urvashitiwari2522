@@ -51,9 +51,7 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  https://streak-stats.demolab.com?user=urvashitiwari2522&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&ring=FF4500&currStreakLabel=FF4500&sideLabels=FF4500)](https://git.io/streak-stats
-</p>
-
+ <img src="https://github-readme-stats.vercel.app/api?username=urvashitiwari2522&show_icons=true&theme=radical" alt="GitHub Stats"/>p
 ---
 
 ### ⚡ Fun Fact

@@ -49,10 +49,19 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=urvashitiwari2522&show_icons=true&theme=radical" alt="GitHub Stats"/>p
----
+### 📊 My GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Urvashi Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=urvashitiwari2522&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=urvashitiwari2522&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvashitiwari2522&layout=compact&theme=radical&langs_count=8)
+
+<!-- Optional: Contributions Graph -->
+[![Urvashi Tiwari's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urvashitiwari2522&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⚡ Fun Fact
 > I believe in continuous learning and experimenting. Let’s connect and build something amazing together! 🚀

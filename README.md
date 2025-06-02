@@ -3,7 +3,7 @@
 👩‍💻 *About Me:*  
 - 🏫 Third-year student at the *University of Allahabad*  
 - 🌟 I'm interested in learning about technologies and exploring new domains  
-- 🔥 Currently learning *C# , Python and its libraries *  
+- 🔥 Currently learning * C# , Python and its libraries *  
 - 💡 Exploring *AI, ML, and data science*  
 - 💬 Fun fact: I love programming languages and am always eager to learn new technologies  
 - 📬 How to reach me: urvashitiwari2522@gmail.com  

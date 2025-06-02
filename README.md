@@ -26,6 +26,4 @@
 📈 *GitHub Stats:*  
 ![Urvashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urvashitiwari2522&show_icons=true&theme=radical)
 
----
 
-Let me know if you’d like to add more details, change the styling, or update the links! 🚀✨

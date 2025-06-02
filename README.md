@@ -1,27 +1,16 @@
-<h1 align="center">Hi👋,I'm Urvashi</h1>
+Sure! Here's a bio for you in a similar style as the one from the image:
 
- # 💫About Me:
- 
-- ✨ username: @Urvashitiwari2522
-- 👀 I’m interested in learning about technologies
-- 🌱 I’m currently learning JAVA , HTML and python. 
-- 📫 How to reach me: urvashitiwari2522@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like programming languages and am eager to learn new technologies. 
 
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/urvashitiwari2522"\>
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-   <a href="https://www.instagram.com/urvashi_tiwari2208">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/urvashi-tiwari2208">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-</div>
- 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,html,mysql)](https://skillicons.dev)
+---
 
+[Your Name]
+Third Year Student at University of Allahabad | Passionate about AI & ML | Python Enthusiast
+
+📍 Allahabad
+💡 Interests: AI, ML, Data Science
+🔧 Skills: Python, Data Analysis, Machine Learning
+
+
+---
+
+Would you like to tweak this bio further? Let me know if you want to add more details like your GitHub profile or any other specific skills!

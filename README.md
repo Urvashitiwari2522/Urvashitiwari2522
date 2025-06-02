@@ -15,10 +15,10 @@
 | 🗄 *Database*            | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 💻 *IDEs / Editors*      | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)|
 | 🖥 *Version Control*    | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) |
-| ☁ *Hosting / Deployment*| ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121013?logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
+| ☁ *Hosting / Deployment*| ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121013?logo=github&logoColor=white) |
 | ⚙ *CI/CD*               | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) |
 | 🐳 *Containerization*    | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-| 📚 *Frameworks / Platforms* | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) |
+| 📚 *Frameworks / Platforms* | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) |
 | 🎨 *Design*              | ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white) |
 | 🧠 *Currently Learning*  | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Python Libraries](https://img.shields.io/badge/-Python%20Libraries-3776AB?logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/-AI%20%2F%20ML-FF6F00?logo=ml&logoColor=white) |
 | 🪴 *Operating Systems*   | ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) |
